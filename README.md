@@ -22,3 +22,13 @@
 > sudo chmod +x install.sh
 ### una vez otorgados los permisos pasamos a ejecutar nuestro archivo con el siguiente comando
 > ./install.sh
+### listo reiniciamos nuestro computador y el plugin se ejecutara de manera automatica.
+
+## como desinstalar el plugin
+### al igual que la instalacion le otorgamos permisos de ejecucion al archivo uninstall.sh, con el siguiente comando
+> sudo chmod +x uninstall.sh
+### una vez otorgado los permisos pasamos a ejecutarlo, con el siguiente comando.
+>./uninstall.sh
+### listo solo debemos reiniciar nuestro computador y el plugin quedara desinstalado de manera completa
+
+# es libre de usarse el plugin, tiene mi marco de agua, si te interesa el plugin, puedes contactarme
