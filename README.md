@@ -1,5 +1,5 @@
 # plugin-escpos-linux-javascript
-## como instalar plugin en linux, este plugin solo funciona en entornos linux que logren detectar las impresoras termicas desde el puerto /dev/usb/lp* bien conocido de usblp en los entornos linux, el protocolo a manejar es esc/pos.
+### Este plugin solo funciona en entornos linux que logren detectar las impresoras termicas desde el puerto /dev/usb/lp* bien conocido de usblp en los entornos linux, el protocolo a manejar es esc/pos.
 
 ## compatibilidad
 <table>
@@ -14,3 +14,7 @@
     <td>Si</td>
   </tr>
 </table>
+
+## como instalar
+### para instalar el plugin, podemos descargar el zip de manera directa, o ejecutando el siguiente comando, con el uso de git.
+> git clone https://github.com/saulkali/plugin-escpos-linux-javascript.git
