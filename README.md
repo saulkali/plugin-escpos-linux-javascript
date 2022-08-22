@@ -24,6 +24,12 @@
 > ./install.sh
 ### listo reiniciamos nuestro computador y el plugin se ejecutara de manera automatica.
 
+
+## libreria de javascript
+### para poder usar este plugin es necesario descargar la siguiente libreria de javascript.
+> https://github.com/saulkali/library-javascript-escpos-printers
+
+
 ## como desinstalar el plugin
 ### al igual que la instalacion le otorgamos permisos de ejecucion al archivo uninstall.sh, con el siguiente comando
 > sudo chmod +x uninstall.sh
