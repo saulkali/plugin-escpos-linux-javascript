@@ -37,4 +37,7 @@
 >./uninstall.sh
 ### listo solo debemos reiniciar nuestro computador y el plugin quedara desinstalado de manera completa
 
+### video de youtube de como instalar
+> https://youtu.be/JkOLW8N5Gxs
+
 # es libre de usarse el plugin, tiene mi marco de agua, si te interesa el plugin, puedes contactarme
